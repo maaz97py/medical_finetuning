@@ -8,7 +8,7 @@ This repo focuses on making the fine-tuning of LLMs esay. There is a wrapper tha
 To use the scripts, first clone the repository to your local machine:
 
 ```bash
-!git clone https://github.com/nishantkushwaha-1999/llm_fine_tuning_optimization.git
+!git clone https://github.com/maaz97py/medical_finetuning.git
 ```
 
 ### Installing Dependencies
